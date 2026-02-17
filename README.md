@@ -12,7 +12,7 @@ _Such a mess_
 
 Compared to what I've developed<br>
 ![image](media/LightMode.png)
--# Light mode
+<sub>Light mode</sub>
 
 ![image](media/DarkMode.png)<br>
--# Dark mode
+<sub>Dark mode</sub>
