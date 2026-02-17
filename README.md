@@ -11,7 +11,7 @@ The current options for loading in roblox, either the web client or the desktop 
 _Such a mess_
 
 Compared to what I've developed<br>
-![image](media/LightMode.png)
+![image](media/LightMode.png)<br>
 <sub>Light mode</sub>
 
 ![image](media/DarkMode.png)<br>
