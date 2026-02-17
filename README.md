@@ -10,10 +10,9 @@ The current options for loading in roblox, either the web client or the desktop 
 ![image](media/storyboard2.png)
 _Such a mess_
 
-Compared to what I've developed
-
+Compared to what I've developed<br>
 ![image](media/LightMode.png)
 -# Light mode
 
-![image](media/DarkMode.png)
+![image](media/DarkMode.png)<br>
 -# Dark mode
